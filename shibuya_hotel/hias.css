@@ -1,0 +1,52 @@
+h3 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30;
+  }
+    .kembali {
+        text-align: center;
+    }
+    table {
+      border-collapse: collapse;
+      width: 50%;
+      margin: 0 auto; 
+      background-color: wheat;
+      margin-bottom: 25%;
+      margin-top: 5%;
+   
+    }
+    tr {
+      border-bottom: 1px solid #ddd;
+      
+    }
+    td {
+      padding: 10px;
+      text-align: left;
+    }
+    input[type="number"],
+    input[type="text"],
+    input[type="date"] {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    input[type="submit"] {
+      background-color: goldenrod;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    a {
+      background-color: goldenrod;
+      color: white;
+      padding: 8px 14px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    a:hover {
+      text-decoration: underline;
+    }

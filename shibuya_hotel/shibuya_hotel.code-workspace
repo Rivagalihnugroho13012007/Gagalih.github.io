@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../galihphp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shibuya_hotel"
+	}
+}
